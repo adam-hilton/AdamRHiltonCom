@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://adamrhilton.netlify.app
 languageCode: en-us
 title: adam r hilton
 theme: ["PaperMod"]
@@ -13,12 +13,6 @@ params:
     # imageTitle: "<title of image as alt>" # optional
     imageWidth: 60% # custom size
     imageHeight: 60% # custom size
-    # buttons:
-    #   - name: Work
-    #     url: "/work/"
-    #   - name: Recordings
-    #     url: "/recordings/"
-    ShowBreadCrumbs: true
   socialIcons:
   - name: "instagram"
     url: "https://www.instagram.com/adamr8ch/"
